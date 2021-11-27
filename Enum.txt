@@ -1,0 +1,13 @@
+//Declara um conjunto de constantes nomeadas que comecam do 0 e aumentam de 1 em 1.
+
+namespace Enum
+{
+    enum Pessoas
+    {
+        Giovanna,
+        Julia,
+        João,
+        Gustavo,
+        Mariana
+    }
+}

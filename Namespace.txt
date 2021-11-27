@@ -1,0 +1,17 @@
+// Sao usadas para organizar uma classe.
+
+namespace Primeiro
+{
+    class Classe
+    {
+
+    }
+}
+
+namespace Segundo
+{
+    class Classe
+    {
+
+    }
+}

@@ -1,0 +1,12 @@
+// pode ter campos, propriedades, metodos e eventos dentro dele que sao denominadas membros, quando instanciado é chamado de objeto
+
+
+namespace Classes
+{
+    class Pessoa
+    {
+        public string Nome { get; set; }
+        public string Estado { get; set; }
+        public int Idade { get; set; }
+    }
+}
